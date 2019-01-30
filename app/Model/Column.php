@@ -13,7 +13,4 @@ class Column extends Model
         return $this->hasMany(Post::class);
     }
 
-
-
-    
 }
